@@ -1,4 +1,4 @@
-/* copy an array in an another array*/
+/* copy an array in an another array*///
 #include<iostream>
 using namespace std;
 void copy_array(int arr1[],int arr2[],int n)
