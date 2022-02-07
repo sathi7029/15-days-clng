@@ -73,6 +73,4 @@ int main()
 		cout<<endl;
 	}
 	
-
-	
 }
