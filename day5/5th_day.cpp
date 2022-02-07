@@ -1,4 +1,5 @@
 /* matrix multiplication */
+//2d array
 #include<iostream>
 using namespace std;
 int main()
