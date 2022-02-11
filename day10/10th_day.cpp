@@ -1,4 +1,4 @@
-//index of smallest element
+//index of smallest element in an array
 #include<iostream>
 using namespace std;
 int main()
