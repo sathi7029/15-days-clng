@@ -1,3 +1,4 @@
+//sum of two primme number
 #include<iostream>
 using namespace std;
 int prime(int n)
